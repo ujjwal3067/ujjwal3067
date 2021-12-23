@@ -14,6 +14,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal3067&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
