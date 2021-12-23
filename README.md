@@ -17,7 +17,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal3067&langs_count=6&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src="https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188" width="19%">
-
+![Alt Text](https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188)
 <!-- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
 
 <!-- badges -->
