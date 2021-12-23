@@ -30,4 +30,8 @@
 
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-<img align="right" alt="GIF" src="https://giphy.com/gifs/pattern-illusion-moire-oKt3nrJaO35FIXATU8"/>
+
+
+### Art... or Science @rougier
+
+<img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="19%"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
