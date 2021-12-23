@@ -20,7 +20,7 @@
 ![Alt Text](https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188) -->
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 <!-- badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
