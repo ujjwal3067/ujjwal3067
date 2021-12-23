@@ -49,3 +49,15 @@
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+
+
+
+
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/my-github-user/ujjwal3067/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+
+
+
+
