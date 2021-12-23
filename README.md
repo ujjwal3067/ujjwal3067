@@ -1,6 +1,6 @@
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00) -->
 
 ### Hi there 👋
 
