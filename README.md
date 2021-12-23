@@ -20,7 +20,7 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 
-![Metrics](https://metrics.lecoq.io/ujjwal3067)
+
 
 ### Art... or Science @rougier
 
