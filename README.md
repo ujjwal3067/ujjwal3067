@@ -55,7 +55,7 @@
 
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/my-github-user/ujjwal3067/blob/master/github-metrics.svg)
+![Metrics](https://github.com/ujjwal3067/ujjwal3067/blob/master/github-metrics.svg)
 <!-- If you're using "main" as default branch -->
 
 
