@@ -14,7 +14,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<!-- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
 
 <!-- badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,8 +31,6 @@
 
 
 
-// 
-//
 ### Art... or Science @rougier
 
 <img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="19%"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
