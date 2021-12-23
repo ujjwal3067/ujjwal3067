@@ -13,10 +13,10 @@
 - ⚡ Fun fact: Mathematics is life
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
+![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal3067&langs_count=6&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<img src="https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188" width="19%">
 
 <!-- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
 
