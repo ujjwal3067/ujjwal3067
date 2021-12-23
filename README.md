@@ -19,6 +19,7 @@
 <img src="https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188" width="19%">
 ![Alt Text](https://tenor.com/view/keown-tutoring-math-equation-formula-gif-14954188) -->
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
