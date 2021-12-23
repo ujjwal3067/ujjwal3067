@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/xT39CQJ9quJcAoges0" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wolfram-research-coding-programming-xT39CQJ9quJcAoges0">via GIPHY</a></p>
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=ujjwal3067)
@@ -24,3 +24,5 @@
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
