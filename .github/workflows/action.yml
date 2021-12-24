@@ -1,12 +1,2 @@
-# ====================================================================================
-# Inputs and configuration
-
-inputs:
-
-  # ====================================================================================
-  # 🗃️ Base content
-  
-  # Base content
-  base:
-   - name: Metrics embed
-   uses: lowlighter/metrics@v3.16
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.16
