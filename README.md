@@ -5,12 +5,12 @@
 ### Hi there 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=ujjwal3067) -->
-
+```
 - 🔭 I’m currently working on  Rate Limiter implementation in Rust
 - 🌱 I’m currently working on C + Rust  + System Design +  Low level Networking
 - 📫 How to reach me: `coming soon...`
 - ⚡ Fun fact: Mathematics makes life easy
-
+```
 
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
