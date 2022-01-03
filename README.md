@@ -11,7 +11,18 @@
 - 📫 How to reach me: `coming soon...`
 - ⚡ Fun fact: Mathematics makes life easy
 ```
-
+```
+Programming Language fluency : 
+- Python : fluent
+- Java : fluent enough 
+- Rust : almost there
+- golang : somewhat fluent
+- groovy : fluent enough 
+- C : on going process ( so much to learn ) 
+- C# : I don't need it anymore 
+- lua : just using it for neovim configs and plugins customization
+- C++ : It's a mess. I don't use it anymore. Maybe one day 
+```
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
 <!-- ![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg) -->
