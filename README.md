@@ -15,7 +15,7 @@
 Programming Language fluency : 
 - Python : fluent
 - Java : fluent enough 
-- Rust : almost there
+- Rust : Expert 
 - golang : somewhat fluent
 - groovy : fluent enough 
 - C : on going process ( so much to learn ) 
