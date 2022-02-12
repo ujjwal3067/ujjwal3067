@@ -13,14 +13,14 @@
 ```
 ```
 Programming Language fluency : 
-- Python : fluent
-- Java   : fluent 
-- Rust   : Expert 
-- golang : fluent
-- groovy : fluent enough 
-- C : on going process ( so much to learn ) 
-- lua : just using it for neovim configs and plugins customization
-- C++ : It's a mess. I don't use it anymore. Maybe one day 
+- Python : fluent ◌⃦◌⃦◌⃦◌⃦◌⃦
+- Java   : fluent ◌⃦◌⃦◌⃦◌⃦◌⃦
+- Rust   : Expert ◌⃦◌⃦◌⃦◌⃦◌⃦◌⃦◌⃦
+- golang : fluent ◌⃦◌⃦◌⃦◌⃦
+- groovy : fluent enough ◌⃦◌⃦◌⃦◌⃦◌⃦
+- C : on going process ( so much to learn ) ◌⃦◌⃦◌⃦◌⃦
+- lua : just using it for neovim configs and plugins customization ◌⃦◌⃦◌⃦◌⃦
+- C++ : It's a mess. I don't use it anymore. Maybe one day ◌⃦◌⃦
 ```
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
