@@ -30,11 +30,11 @@ Programming Language fluency :
 
 
 
-
+<!-- 
 ### Art... or Science @rougier
 
 <img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="19%"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
-
+ -->
 
 <!--  badges -->
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
