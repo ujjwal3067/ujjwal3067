@@ -45,11 +45,11 @@ Programming Language fluency :
 
 
 <!-- Meterics action yaml -->
-
+<!-- 
 #### Mertrics
 
 ![Metrics](https://metrics.lecoq.io/ujjwal3067?template=classic&lines=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FToronto)
 
-
+ -->
 
 
