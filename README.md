@@ -11,8 +11,8 @@
 - ⚡ Fun fact: Mathematics makes life easy
 ```
 ```
-Programming Language fluency : 
->> whatever gets the job done tbh. 
+Programming Language knowledge : 
+>> whatever gets the job done tbh efficiently . 
 ```
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
