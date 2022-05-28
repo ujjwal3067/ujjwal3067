@@ -7,20 +7,12 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ujjwal3067) -->
 ```
 - 🔭 I’m currently working on  Modified Map Reduce in Rust.
-- 🌱 I’m currently working on C + Rust  + System Design +  Low level Networking
-- 📫 How to reach me: `coming soon...`
+- 🌱 I’m currently working on C + Rust  + System Design 
 - ⚡ Fun fact: Mathematics makes life easy
 ```
 ```
 Programming Language fluency : 
-- Python : fluent -----
-- Java   : fluent -----
-- Rust   : fluent enough -----------
-- golang : fluent ------
-- groovy : fluent enough ---
-- C : on going process ( so much to learn ) ----
-- lua : just using it for neovim configs and plugins customization ---
-- C++ : It's a mess. I don't use it anymore. Maybe one day -
+>> whatever gets the job done tbh. 
 ```
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
