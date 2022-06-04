@@ -12,7 +12,7 @@
 ```
 ```
 Programming Language knowledge : 
->> whatever gets the job done tbh efficiently . 
+>> whatever gets the job done efficiently tbh . 
 ```
 ![Ujjwal github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal3067&count_private=true&show_icons=true)
 
