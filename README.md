@@ -6,8 +6,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=ujjwal3067) -->
 ```
-- 🔭 I’m currently working on  Modified Map Reduce in Rust.
-- 🌱 I’m currently working with C + Rust  on System Design 
+- 🔭 Thinking .... 
 
 ```
 ```
